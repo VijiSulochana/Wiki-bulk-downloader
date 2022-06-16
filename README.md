@@ -1,8 +1,6 @@
 # Wiki-bulk-downloader
 
 
-# Wiki bulk downloader
-
 ### Description
 ```
 It is mainly used for download the bulk files from wikimedia commons by using the category search.
@@ -17,7 +15,7 @@ Language used - Django,Python
 ```
 1.Project deployment in tools forge
 ```
-
+Note - Refer the code from dev branch
 
 
 
